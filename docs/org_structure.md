@@ -1,9 +1,5 @@
 # USG-ARI Organization Structure & Composition
 
-## Executive Summary
-
-## Introduction
-
 ## Organizational Structure
 
 __Leadership Team__
