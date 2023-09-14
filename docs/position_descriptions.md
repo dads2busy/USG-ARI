@@ -1,6 +1,6 @@
 # USG-ADRI Position Descriptions
 
-## Chief Research Officer, Universities at Shady Grove<br />and<br />Director, Applied Data Research Institute, University of Maryland Baltimore
+## Chief Research Officer, Universities at Shady Grove<br />Director, Applied Data Research Institute, University of Maryland Baltimore
 
 The Chief Research Officer, Universities at Shady Grove, and Director, Applied Data Research Institute, will lead a pioneering institute dedicated to harnessing data-driven insights to optimize educational pathways for students, ensuring successful transitions to fulfilling careers and promoting lifelong learning opportunities. This leadership role entails steering research initiatives, promoting effective data measurement and assessment techniques, and fostering a collaborative environment that applies research findings to enhance educational outcomes. The Director will also work collaboratively with USG partner institutions, community colleges, regional and national employers, and other stakeholders in leading robust data collection and analyses. 
 
