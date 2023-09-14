@@ -156,3 +156,46 @@ The Lead Policy Data Analyst is a senior role responsible for conducting in-dept
 
 ---
 
+## Lead Research Communicator
+
+### Position Overview
+
+The Lead Research Communicator will play a crucial role in shaping the public perception of our research efforts. This individual will oversee a team of communication specialists and work closely with researchers and analysts to create engaging, accurate, and easily digestible content for a variety of platforms.
+
+---
+
+### Key Responsibilities
+
+1. **Content Development**: Work with researchers to translate complex findings into clear and compelling narratives for various mediums, such as reports, blog posts, and social media.
+
+2. **Team Leadership**: Manage and mentor a team of communication specialists, ensuring consistency and quality across all outputs.
+
+3. **Strategic Communication**: Develop and implement a strategic communication plan to increase the visibility and impact of the organization's research.
+
+4. **Stakeholder Engagement**: Build and maintain relationships with media, policymakers, and other stakeholders to amplify the reach of the organization’s research.
+
+5. **Public Speaking**: Represent the organization at conferences, media interviews, and other public events, serving as a subject-matter expert and spokesperson.
+
+6. **Media Relations**: Manage media relationships and prepare press releases, opinion pieces, and other media materials.
+
+7. **Monitoring and Reporting**: Track and analyze key performance indicators to measure the effectiveness of communication strategies and make data-driven adjustments.
+
+---
+
+## Qualifications
+
+1. **Education**: Bachelor's or Master's degree in Communications, Journalism, Public Relations, or a related field.
+
+2. **Experience**: At least 5-7 years of experience in scientific or research communication, with at least 2 years in a leadership role.
+
+3. **Technical Skills**: Proficiency in content management systems, social media platforms, and basic graphic design software.
+
+4. **Writing Skills**: Exceptional writing abilities, with a knack for simplifying complex topics for a general audience.
+
+5. **Communication**: Outstanding verbal communication skills, with experience in public speaking and media relations.
+
+6. **Teamwork**: Proven ability to lead teams and collaborate effectively with researchers and other cross-functional teams.
+
+7. **Project Management**: Strong organizational and project management skills, with the ability to manage multiple tasks and deadlines simultaneously.
+
+---
