@@ -115,14 +115,14 @@ The Lead Data Engineer will be responsible for guiding the data engineering team
 
 ---
 
-# Job Description: Lead Policy Data Analyst
+## Lead Policy Data Analyst
 
-## Position Overview
+### Position Overview
 
 The Lead Policy Data Analyst is a senior role responsible for conducting in-depth data analyses to assess the impact, effectiveness, and potential outcomes of various public policies. This role will oversee a team of policy analysts and data scientists to deliver high-quality, data-driven insights to our clients, stakeholders, and policymakers.
 
 
-## Key Responsibilities
+### Key Responsibilities
 
 1. **Data Analysis**: Lead quantitative and qualitative data analysis projects to assess and evaluate the impact of various public policies.
 
@@ -139,7 +139,7 @@ The Lead Policy Data Analyst is a senior role responsible for conducting in-dept
 7. **Client Management**: Serve as the primary point of contact for clients, ensuring deliverables meet specified requirements and timelines.
 
 
-## Qualifications
+### Qualifications
 
 1. **Education**: Bachelor’s or Master's degree in Public Policy, Economics, Statistics, or a related field.
 
