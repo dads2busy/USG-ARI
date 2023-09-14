@@ -40,7 +40,7 @@ Organize workshops, seminars, and training sessions to empower faculty, staff, a
 
 Provide guidance and mentorship to researchers and analysts within the institute, promoting their professional growth and development. 
 
-Funding and Resource Management: 
+__Funding and Resource Management:__
 
 Pursue grant and contract opportunities and secure funding from public and private sources to support the institute's research endeavors and operational needs. 
 
