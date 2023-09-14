@@ -21,42 +21,42 @@ __Support Teams__
 - Administration
 - HR and Finance
 
-## Leadership Team Composition
-
-### Institute Director
+## Team Compositions
+### Leadership Team
+#### Institute Director
 
 __Responsibilities:__ Overall organizational leadership, funding and resource acquisition, external partnerships.
 
 __Qualifications:__ Ph.D. or Master's in related field, 10+ years of experience in research and management.
 
-### Lead, Data Engineering
+#### Lead, Data Engineering
 
 __Responsibilities:__ Data governance, architecture, storgage and process management.
 
 __Qualifications:__ Master's in Data Analytics or Computer Science, 8+ years of experience in data management.
 
-### Lead, Data Analytics
+#### Lead, Data Analytics
 
 __Responsibilities:__ Overseeing data driven policy analysis projects, engaging with government and policymakers.
 
 __Qualifications:__ Master's in Public Policy, 5+ years of policy research experience.
 
-### Lead, Research Communications
+#### Lead, Research Communications
 
 __Responsibilities:__ Coordinate the development of final research products/outputs including research reports, presentations, and research associate websites.
 
 __Qualifications:__ Demonstrated education and/or experience in laboratory-based science and science communications.
 
 
-## Research Teams Composition
-
-### Data Aquisition & Preparation
+### Data Aquisition & Preparation Team
 
 #### Data Engineers (2)
 
 __Responsibilities:__ Design, construct, install, and maintain systems for data collection, preparation, and efficient storage to support retrieval and analysis.
 
 __Qualifications:__ A bachelor's or master's degree in computer science, engineering, or a related field, along with expertise in database management systems, data modeling, ETL processes, and programming languages like Python or R.
+
+### Data Analytics Team
 
 #### Data Analysts (2)
 
