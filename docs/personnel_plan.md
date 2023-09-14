@@ -34,6 +34,17 @@ __Qualifications:__ Ph.D. or Master's in related field, 10+ years of experience 
 __Responsibilities:__ Data governance, architecture, storgage and process management.
 __Qualifications:__ Master's in Data Analytics or Computer Science, 8+ years of experience in data management.
 
+### Lead, Data Analytics
+
+__Responsibilities:__ Overseeing data driven policy analysis projects, engaging with government and policymakers.
+__Qualifications:__ Master's in Public Policy, 5+ years of policy research experience.
+
+### Lead, Research Communications
+
+__Responsibilities:__ Coordinate the development of final research products/outputs including research reports, presentations, and research associate websites. 
+__Qualifications:__ Demonstrated education and/or experience in laboratory-based science and science communications.
+
+
 
 ## Position Descriptions
 ### Chief Research Officer, Universities at Shady Grove<br />and<br />Director, Applied Data Research Institute, University of Maryland Baltimore
