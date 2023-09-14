@@ -112,3 +112,47 @@ The Lead Data Engineer will be responsible for guiding the data engineering team
 6. **Problem-Solving**: Strong analytical and problem-solving abilities.
 
 7. **Teamwork**: Proven experience in leading and collaborating with cross-functional teams.
+
+---
+
+# Job Description: Lead Policy Data Analyst
+
+## Position Overview
+
+The Lead Policy Data Analyst is a senior role responsible for conducting in-depth data analyses to assess the impact, effectiveness, and potential outcomes of various public policies. This role will oversee a team of policy analysts and data scientists to deliver high-quality, data-driven insights to our clients, stakeholders, and policymakers.
+
+
+## Key Responsibilities
+
+1. **Data Analysis**: Lead quantitative and qualitative data analysis projects to assess and evaluate the impact of various public policies.
+
+2. **Research Design**: Develop robust research methodologies and data collection strategies for policy analysis projects.
+
+3. **Team Leadership**: Manage and mentor a team of policy data analysts, ensuring the highest quality of work and professional development.
+
+4. **Stakeholder Engagement**: Liaise with policymakers, government officials, and other stakeholders to understand their data analysis needs and deliver tailored insights.
+
+5. **Reporting and Presentation**: Synthesize findings into actionable reports and presentations, targeted for both technical and non-technical audiences.
+
+6. **Strategic Planning**: Contribute to the strategic direction of the research division, aligning data analysis projects with organizational goals and objectives.
+
+7. **Client Management**: Serve as the primary point of contact for clients, ensuring deliverables meet specified requirements and timelines.
+
+
+## Qualifications
+
+1. **Education**: Bachelor’s or Master's degree in Public Policy, Economics, Statistics, or a related field.
+
+2. **Experience**: At least 5-8 years of experience in policy analysis or data analytics, with a focus on public policy issues; at least 2 years in a leadership role.
+
+3. **Technical Skills**: Proficiency in statistical analysis software (e.g., R, SPSS, Stata) and data visualization tools (e.g., Tableau).
+
+4. **Research Skills**: Strong background in research design, sampling methodologies, and data interpretation.
+
+5. **Communication**: Exceptional written and verbal communication skills, with the ability to present complex data in a clear and compelling manner.
+
+6. **Problem-Solving**: Excellent analytical and critical thinking abilities.
+
+7. **Teamwork**: Proven experience in leading teams and collaborating with cross-functional partners.
+
+---
