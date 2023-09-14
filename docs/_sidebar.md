@@ -1,4 +1,4 @@
-- Getting started
+- Institute Scope
 
-  - [Quick start](quickstart.md)
+  - [Financial Plan](financial_plan.md)
 
