@@ -1,5 +1,4 @@
 # USG-ADRI Position Descriptions
-<hr />
 
 ## Chief Research Officer, Universities at Shady Grove<br />and<br />Director, Applied Data Research Institute, University of Maryland Baltimore
 
