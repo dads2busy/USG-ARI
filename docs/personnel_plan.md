@@ -58,7 +58,11 @@ __Responsibilities:__ Design, construct, install, and maintain systems for data 
 
 __Qualifications:__ A bachelor's or master's degree in computer science, engineering, or a related field, along with expertise in database management systems, data modeling, ETL processes, and programming languages like Python or R.
 
+#### Data Analysts (2)
 
+__Responsibilities:__ Collecting, processing, and analyzing data to evaluate public policies, as well as generating actionable insights and recommendations to inform decision-making by policymakers.
+
+__Qualifications:__ A bachelor's or master's degree in public policy, economics, statistics, or a related field, along with strong analytical, research, and statistical skills, proficiency in data visualization tools, proficiency in programming languages commonly used in data analytics like R or Python, and experience in policy analysis.
 
 
 
