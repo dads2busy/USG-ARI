@@ -54,7 +54,9 @@ __Qualifications:__ Demonstrated education and/or experience in laboratory-based
 
 #### Data Engineers (2)
 
-__Responsibilities:__
+__Responsibilities:__ Design, construct, install, and maintain systems for data collection, preparation, and efficient storage to support retrieval and analysis.
+
+__Qualifications:__ A bachelor's or master's degree in computer science, engineering, or a related field, along with expertise in database management systems, data modeling, ETL processes, and programming languages like Python or R.
 
 
 
