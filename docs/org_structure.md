@@ -17,9 +17,8 @@ __Research Teams__
 - Data Analytics
 - Data Products & Communications
 
-__Support Teams__
-- Administration
-- HR and Finance
+__Support Team__
+- Project Administration
 
 ## Team Compositions
 ### Leadership Team
@@ -74,6 +73,14 @@ _Responsibilities:_
 _Qualifications:_
 
 #### Web Developer (1)
+
+_Responsibilities:_
+
+_Qualifications:_
+
+### Support Team
+
+#### Project Administrator (1)
 
 _Responsibilities:_
 
