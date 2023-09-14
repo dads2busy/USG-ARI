@@ -1,6 +1,6 @@
 # USG-ARI Organization Structure & Composition
 
-## Organizational Structure
+## Organization Structure
 
 __Leadership Team__
 - Institute Director
