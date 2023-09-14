@@ -67,6 +67,7 @@ _Qualifications:_ A bachelor's or master's degree in public policy, economics, s
 
 
 <hr />
+
 ## Position Descriptions
 ### Chief Research Officer, Universities at Shady Grove<br />and<br />Director, Applied Data Research Institute, University of Maryland Baltimore
 
