@@ -5,6 +5,7 @@
   - Personnel Plan
     - [Organization Structure](org_structure.md)
     - [Position Descritpions](position_descriptions.md)
+  - [Infrastructure Plan](infrastructure_plan.md)
 
 - Institute Projects
   - [READY](project_ready.md)
