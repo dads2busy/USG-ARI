@@ -1,4 +1,4 @@
-# USG-ARI Personnel Plan
+# USG-ARI Organization Structure & Composition
 
 ## Executive Summary
 
