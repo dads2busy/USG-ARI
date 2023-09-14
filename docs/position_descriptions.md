@@ -2,6 +2,8 @@
 
 ## Chief Research Officer, Universities at Shady Grove<br />Director, Applied Data Research Institute, University of Maryland Baltimore
 
+### Position Overview
+
 The Chief Research Officer, Universities at Shady Grove, and Director, Applied Data Research Institute, will lead a pioneering institute dedicated to harnessing data-driven insights to optimize educational pathways for students, ensuring successful transitions to fulfilling careers and promoting lifelong learning opportunities. This leadership role entails steering research initiatives, promoting effective data measurement and assessment techniques, and fostering a collaborative environment that applies research findings to enhance educational outcomes. The Director will also work collaboratively with USG partner institutions, community colleges, regional and national employers, and other stakeholders in leading robust data collection and analyses. 
 
 ### Key Responsibilities 
@@ -69,3 +71,46 @@ Manage the institute's budget effectively, ensuring efficient utilization of res
 - A strong network within the fields of education and social policy and research. 
 
 - Familiarity with state and national policies and initiatives related to higher education, career readiness, and lifelong learning, as well as longitudinal and state administrative data systems. 
+
+
+## Lead Data Engineer
+
+### Position Overview
+
+The Lead Data Engineer will be responsible for guiding the data engineering team in the design, development, and maintenance of scalable data pipelines and architectures. This role will work closely with data scientists, analysts, and other stakeholders to ensure that data is accessible, consistent, and reliable for advanced analytics and reporting.
+
+---
+
+### Key Responsibilities
+
+1. **Design and Build Data Pipelines**: Develop robust, scalable ETL pipelines to collect, manipulate, and store large sets of data from various sources.
+  
+2. **Data Architecture**: Design and maintain the company's data architecture, ensuring it meets business needs and performance requirements.
+  
+3. **Team Leadership**: Lead, mentor, and provide technical guidance to a team of data engineers.
+  
+4. **Data Quality and Governance**: Implement processes and systems to monitor data quality, ensuring production data is always accurate and available for key stakeholders.
+
+5. **Collaboration**: Work closely with data analysts, data scientists, and other cross-functional teams to meet business objectives.
+
+6. **Optimization**: Constantly evaluate new technologies and approaches to optimize the existing data environment for both performance and cost.
+
+7. **Compliance**: Ensure data privacy and integrity by implementing the necessary security and compliance measures.
+
+---
+
+### Qualifications
+
+1. **Education**: Bachelor's or Master's degree in Computer Science, Engineering, or a related field.
+  
+2. **Experience**: At least 7-10 years of experience in data engineering, with at least 3 years in a leadership role.
+
+3. **Technical Skills**: Proficiency in ETL tools, SQL databases, NoSQL databases, and programming languages such as Python, Java, or Scala.
+  
+4. **Big Data Technologies**: Familiar with big data technologies like Hadoop, Spark, or Kafka is highly desirable.
+
+5. **Communication**: Excellent written and verbal communication skills.
+
+6. **Problem-Solving**: Strong analytical and problem-solving abilities.
+
+7. **Teamwork**: Proven experience in leading and collaborating with cross-functional teams.
