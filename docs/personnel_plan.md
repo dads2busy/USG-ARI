@@ -65,6 +65,19 @@ _Responsibilities:_ Collecting, processing, and analyzing data to evaluate publi
 _Qualifications:_ A bachelor's or master's degree in public policy, economics, statistics, or a related field, along with strong analytical, research, and statistical skills, proficiency in data visualization tools, proficiency in programming languages commonly used in data analytics like R or Python, and experience in policy analysis.
 
 
+### Data Products & Communications Team
+
+#### Research Communicator (1)
+
+_Responsibilities:_
+
+_Qualifications:_
+
+#### Web Developer (1)
+
+_Responsibilities:_
+
+_Qualifications:_
 
 <hr />
 
