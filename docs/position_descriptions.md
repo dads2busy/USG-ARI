@@ -73,6 +73,8 @@ Manage the institute's budget effectively, ensuring efficient utilization of res
 - Familiarity with state and national policies and initiatives related to higher education, career readiness, and lifelong learning, as well as longitudinal and state administrative data systems. 
 
 
+<hr />
+
 ## Lead Data Engineer
 
 ### Position Overview
