@@ -25,7 +25,7 @@ __Support Teams__
 ### Leadership Team
 #### Institute Director
 
-<u>Responsibilities:</u> Overall organizational leadership, funding and resource acquisition, external partnerships.
+_Responsibilities:_ Overall organizational leadership, funding and resource acquisition, external partnerships.
 
 __Qualifications:__ Ph.D. or Master's in related field, 10+ years of experience in research and management.
 
