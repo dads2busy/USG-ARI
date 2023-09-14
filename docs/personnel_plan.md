@@ -1,11 +1,46 @@
 # USG-ARI Personnel Plan
 
+## Executive Summary
 
-## Chief Research Officer, Universities at Shady Grove<br />and<br />Director, Applied Data Research Institute, University of Maryland Baltimore
+## Introduction
+
+## Organizational Structure
+
+__Leadership Team__
+- Institute Director
+- Lead, Data Engineering
+- Lead, Data Analytics
+- Lead, Research Communications
+
+__Research Teams__
+- Data Aquisition & Preparation
+- Data Analytics
+- Data Products & Communications
+
+__Support Teams__
+- Administration
+- HR and Finance
+
+## Leadership Team Composition
+
+### Institute Director
+
+__Responsibilities:__ Overall organizational leadership, funding and resource acquisition, external partnerships.
+
+__Qualifications:__ Ph.D. or Master's in related field, 10+ years of experience in research and management.
+
+### Lead, Data Engineering
+
+__Responsibilities:__ Data governance, architecture, storgage and process management.
+__Qualifications:__ Master's in Data Analytics or Computer Science, 8+ years of experience in data management.
+
+
+## Position Descriptions
+### Chief Research Officer, Universities at Shady Grove<br />and<br />Director, Applied Data Research Institute, University of Maryland Baltimore
 
 The Chief Research Officer, Universities at Shady Grove, and Director, Applied Data Research Institute, will lead a pioneering institute dedicated to harnessing data-driven insights to optimize educational pathways for students, ensuring successful transitions to fulfilling careers and promoting lifelong learning opportunities. This leadership role entails steering research initiatives, promoting effective data measurement and assessment techniques, and fostering a collaborative environment that applies research findings to enhance educational outcomes. The Director will also work collaboratively with USG partner institutions, community colleges, regional and national employers, and other stakeholders in leading robust data collection and analyses. 
 
-### Key Responsibilities 
+#### Key Responsibilities 
 
 __Institute Leadership:__
 
@@ -47,7 +82,7 @@ Pursue grant and contract opportunities and secure funding from public and priva
 
 Manage the institute's budget effectively, ensuring efficient utilization of resources and compliance with funding requirements. 
 
-### Qualifications: 
+#### Qualifications: 
 
 - A Ph.D. in a relevant field such as Public Policy, Data Science, Sociology, Economics, or related fields. 
 
