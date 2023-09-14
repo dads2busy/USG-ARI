@@ -27,46 +27,46 @@ __Support Teams__
 
 _Responsibilities:_ Overall organizational leadership, funding and resource acquisition, external partnerships.
 
-__Qualifications:__ Ph.D. or Master's in related field, 10+ years of experience in research and management.
+_Qualifications:_ Ph.D. or Master's in related field, 10+ years of experience in research and management.
 
 #### Lead, Data Engineering
 
-__Responsibilities:__ Data governance, architecture, storgage and process management.
+_Responsibilities:_ Data governance, architecture, storgage and process management.
 
-__Qualifications:__ Master's in Data Analytics or Computer Science, 8+ years of experience in data management.
+_Qualifications:_ Master's in Data Analytics or Computer Science, 8+ years of experience in data management.
 
 #### Lead, Data Analytics
 
-__Responsibilities:__ Overseeing data driven policy analysis projects, engaging with government and policymakers.
+_Responsibilities:_ Overseeing data driven policy analysis projects, engaging with government and policymakers.
 
-__Qualifications:__ Master's in Public Policy, 5+ years of policy research experience.
+_Qualifications:_ Master's in Public Policy, 5+ years of policy research experience.
 
 #### Lead, Research Communications
 
-__Responsibilities:__ Coordinate the development of final research products/outputs including research reports, presentations, and research associate websites.
+_Responsibilities:_ Coordinate the development of final research products/outputs including research reports, presentations, and research associate websites.
 
-__Qualifications:__ Demonstrated education and/or experience in laboratory-based science and science communications.
+_Qualifications:_ Demonstrated education and/or experience in laboratory-based science and science communications.
 
 
 ### Data Aquisition & Preparation Team
 
 #### Data Engineers (2)
 
-__Responsibilities:__ Design, construct, install, and maintain systems for data collection, preparation, and efficient storage to support retrieval and analysis.
+_Responsibilities:_ Design, construct, install, and maintain systems for data collection, preparation, and efficient storage to support retrieval and analysis.
 
-__Qualifications:__ A bachelor's or master's degree in computer science, engineering, or a related field, along with expertise in database management systems, data modeling, ETL processes, and programming languages like Python or R.
+_Qualifications:_ A bachelor's or master's degree in computer science, engineering, or a related field, along with expertise in database management systems, data modeling, ETL processes, and programming languages like Python or R.
 
 ### Data Analytics Team
 
 #### Data Analysts (2)
 
-__Responsibilities:__ Collecting, processing, and analyzing data to evaluate public policies, as well as generating actionable insights and recommendations to inform decision-making by policymakers.
+_Responsibilities:_ Collecting, processing, and analyzing data to evaluate public policies, as well as generating actionable insights and recommendations to inform decision-making by policymakers.
 
-__Qualifications:__ A bachelor's or master's degree in public policy, economics, statistics, or a related field, along with strong analytical, research, and statistical skills, proficiency in data visualization tools, proficiency in programming languages commonly used in data analytics like R or Python, and experience in policy analysis.
-
-
+_Qualifications:_ A bachelor's or master's degree in public policy, economics, statistics, or a related field, along with strong analytical, research, and statistical skills, proficiency in data visualization tools, proficiency in programming languages commonly used in data analytics like R or Python, and experience in policy analysis.
 
 
+
+<hr />
 ## Position Descriptions
 ### Chief Research Officer, Universities at Shady Grove<br />and<br />Director, Applied Data Research Institute, University of Maryland Baltimore
 
