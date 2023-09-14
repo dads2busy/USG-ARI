@@ -81,8 +81,6 @@ Manage the institute's budget effectively, ensuring efficient utilization of res
 
 The Lead Data Engineer will be responsible for guiding the data engineering team in the design, development, and maintenance of scalable data pipelines and architectures. This role will work closely with data scientists, analysts, and other stakeholders to ensure that data is accessible, consistent, and reliable for advanced analytics and reporting.
 
----
-
 ### Key Responsibilities
 
 1. **Design and Build Data Pipelines**: Develop robust, scalable ETL pipelines to collect, manipulate, and store large sets of data from various sources.
@@ -98,8 +96,6 @@ The Lead Data Engineer will be responsible for guiding the data engineering team
 6. **Optimization**: Constantly evaluate new technologies and approaches to optimize the existing data environment for both performance and cost.
 
 7. **Compliance**: Ensure data privacy and integrity by implementing the necessary security and compliance measures.
-
----
 
 ### Qualifications
 
