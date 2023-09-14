@@ -1,1 +1,1 @@
-# Universities at Shady Grove - Advanced Data Research Institute
+# Universities at Shady Grove - Applied Data Research Institute (ADRI)
