@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <title>Applied Research Institute</title>
+    <title>docsify</title>
     <link rel="icon" href="_media/favicon.ico" />
     <meta
       name="google-site-verification"
@@ -30,19 +30,19 @@
     />
     <link
       rel="stylesheet"
-      href="//cdn.jsdelivr.net/npm/@4/lib/themes/buble.css"
+      href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/buble.css"
       title="buble"
       disabled
     />
     <link
       rel="stylesheet"
-      href="//cdn.jsdelivr.net/npm/@4/lib/themes/pure.css"
+      href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/pure.css"
       title="pure"
       disabled
     />
     <link
       rel="stylesheet"
-      href="//cdn.jsdelivr.net/npm/@4/lib/themes/dolphin.css"
+      href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/dolphin.css"
       title="dolphin"
       disabled
     />
@@ -60,6 +60,7 @@
 
   <body>
     <div id="app">Loading ...</div>
+    <script src="//cdn.jsdelivr.net/npm/docsify-plugin-carbon@1"></script>
     <script>
       // Set html "lang" attribute based on URL
       const lang = location.hash.match(/#\/(de-de|es|ru-ru|zh-cn)\//);
@@ -68,16 +69,16 @@
         document.documentElement.setAttribute('lang', lang[1]);
       }
 
-      //  configuration
-      window.$ = {
+      // Docsify configuration
+      window.$docsify = {
         alias: {
           '.*?/awesome':
-            'https://raw.githubusercontent.com/js/awesome-/master/README.md',
+            'https://raw.githubusercontent.com/docsifyjs/awesome-docsify/master/README.md',
           '.*?/changelog':
-            'https://raw.githubusercontent.com/js//master/CHANGELOG.md',
+            'https://raw.githubusercontent.com/docsifyjs/docsify/master/CHANGELOG.md',
           '/.*/_navbar.md': '/_navbar.md',
           '/es/(.*)':
-            'https://raw.githubusercontent.com/js/docs-es/master/$1',
+            'https://raw.githubusercontent.com/docsifyjs/docs-es/master/$1',
           '/de-de/(.*)':
             'https://raw.githubusercontent.com/docsifyjs/docs-de/master/$1',
           '/ru-ru/(.*)':
