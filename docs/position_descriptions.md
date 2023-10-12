@@ -162,8 +162,6 @@ The Lead Policy Data Analyst is a senior role responsible for conducting in-dept
 
 The Lead Research Communicator will play a crucial role in shaping the public perception of our research efforts. This individual will oversee a team of communication specialists and work closely with researchers and analysts to create engaging, accurate, and easily digestible content for a variety of platforms.
 
----
-
 ### Key Responsibilities
 
 1. **Content Development**: Work with researchers to translate complex findings into clear and compelling narratives for various mediums, such as reports, blog posts, and social media.
@@ -180,9 +178,7 @@ The Lead Research Communicator will play a crucial role in shaping the public pe
 
 7. **Monitoring and Reporting**: Track and analyze key performance indicators to measure the effectiveness of communication strategies and make data-driven adjustments.
 
----
-
-## Qualifications
+### Qualifications
 
 1. **Education**: Bachelor's or Master's degree in Communications, Journalism, Public Relations, or a related field.
 
