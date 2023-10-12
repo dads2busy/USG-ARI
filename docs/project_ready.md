@@ -7,15 +7,15 @@ Description
 
 ## People
 
-**Job Title:** Research Center Director, Resilient Education for All, Designed for You (READY)
+### Job Title: Research Center Director, Resilient Education for All, Designed for You (READY)
 
-**About the READY Institute:**
+#### About the READY Institute:
 The Resilient Education for All, Designed for You (READY) Institute is a visionary research center dedicated to analyzing and optimizing the educational and professional pathways of students within Montgomery County. We specialize in the development of data-rich, multi-level, and complex academic pathways, focusing primarily on the transition of students from the Montgomery County public school system, through programs at regional community colleges such as Montgomery College, into undergraduate and graduate programs at Universities at Shady Grove (USG), and finally, into the early years of their professional careers.
 
-**Job Description:**
+#### Job Description:
 The Director will spearhead the development and implementation of comprehensive academic pathways, engaging in in-depth analysis and assessment to ensure the success of students through every educational and professional stage. The ideal candidate will have a profound understanding of public policy, education data, data science, and a hands-on approach to guiding research initiatives and policy developments in education.
 
-**Primary Responsibilities:**
+#### Primary Responsibilities:
 
 1. **Development of Academic Pathways:** Lead the development of data-rich, multi-level, and complex academic pathways, focusing on the Montgomery County public school system, regional community colleges, and USG.
    
@@ -23,7 +23,7 @@ The Director will spearhead the development and implementation of comprehensive 
 
 3. **Stakeholder Engagement and Collaboration:** Engage with local educational institutions, business leaders, and other stakeholders to align research initiatives and educational programs with the evolving demands of the job market and community needs.
 
-**Qualification Requirements:**
+#### Qualification Requirements:
 The successful candidate must have:
 
 1. **Advanced Degree:** A Ph.D. in a relevant field such as Education, Public Policy, Sociology, Economics, Data Science, or equivalent areas.
@@ -32,7 +32,7 @@ The successful candidate must have:
 4. **Data Analytics Design Experience:** Proven experience in designing and developing complex data analytics organizations and utilizing up-to-date data integration technologies and approaches.
 5. **Knowledge of Privacy Requirements:** In-depth understanding of privacy requirements across different policy areas such as education, health, and commerce.
 
-**Additional Skills:**
+#### Additional Skills:
 
 - Strong leadership, management, and organizational skills, with a track record of directing large research teams and executing successful research projects.
 - Ability to secure and manage external research funding efficiently.
@@ -41,12 +41,12 @@ The successful candidate must have:
 *Note: Ability to work in the U.S. without sponsorship is a requirement.*
 
 
-# Job Title: Entry Level Data Analyst (Social and Behavioral Sciences)
+### Job Title: Entry Level Data Analyst (Social and Behavioral Sciences)
 
-## Position Overview
+#### Position Overview
 The Entry Level Data Analyst will play a pivotal role in processing and analyzing vast amounts of data to extract meaningful insights. Positioned at the intersection of data and social-behavioral understanding, this role offers a unique opportunity to fuse quantitative techniques with nuanced, human-centric perspectives. The ideal candidate will bring a fresh, inquisitive mindset, ready to collaborate and delve deep into data while maintaining a perspective shaped by social and behavioral contexts.
 
-## Responsibilities
+#### Responsibilities
 
 1. **Data Collection**: Systematically gather, cleanse, and integrate data from diverse sources, ensuring data quality and consistency.
 2. **Data Analysis**: Use statistical methods to analyze data, uncovering trends, patterns, and insights.
@@ -55,7 +55,7 @@ The Entry Level Data Analyst will play a pivotal role in processing and analyzin
 5. **Database Interaction**: Access and manipulate data within SQL databases, refining preliminary data sets for analysis.
 6. **Continuous Learning**: Stay abreast of current trends, tools, and methodologies in data analytics to offer cutting-edge solutions.
 
-## Qualifications
+#### Qualifications
 
 - Bachelor’s degree in Social and Behavioral Sciences, Data Analytics, or a relevant discipline.
 - Robust proficiency in R; familiarity with Python is a distinct advantage.
@@ -63,7 +63,7 @@ The Entry Level Data Analyst will play a pivotal role in processing and analyzin
 - Sound grasp of statistical concepts and techniques.
 - An analytical disposition paired with effective problem-solving skills.
 
-## Additional Skills
+### Additional Skills
 
 - Aptitude for distilling complex data-driven findings into comprehensible formats for diverse audiences.
 - Experience with data visualization tools, e.g., ggplot.
