@@ -39,3 +39,35 @@ The successful candidate must have:
 - Excellent communication and interpersonal skills, capable of translating complex research findings into clear, actionable policy recommendations and fostering strong collaborative relationships.
 
 *Note: Ability to work in the U.S. without sponsorship is a requirement.*
+
+
+# Job Title: Entry Level Data Analyst (Social and Behavioral Sciences)
+
+## Position Overview
+The Entry Level Data Analyst will play a pivotal role in processing and analyzing vast amounts of data to extract meaningful insights. Positioned at the intersection of data and social-behavioral understanding, this role offers a unique opportunity to fuse quantitative techniques with nuanced, human-centric perspectives. The ideal candidate will bring a fresh, inquisitive mindset, ready to collaborate and delve deep into data while maintaining a perspective shaped by social and behavioral contexts.
+
+## Responsibilities
+
+1. **Data Collection**: Systematically gather, cleanse, and integrate data from diverse sources, ensuring data quality and consistency.
+2. **Data Analysis**: Use statistical methods to analyze data, uncovering trends, patterns, and insights.
+3. **Reporting**: Develop clear and engaging reports, charts, and presentations that effectively communicate findings.
+4. **Collaboration**: Engage with interdisciplinary teams to comprehend data requirements and deliver corresponding insights.
+5. **Database Interaction**: Access and manipulate data within SQL databases, refining preliminary data sets for analysis.
+6. **Continuous Learning**: Stay abreast of current trends, tools, and methodologies in data analytics to offer cutting-edge solutions.
+
+## Qualifications
+
+- Bachelor’s degree in Social and Behavioral Sciences, Data Analytics, or a relevant discipline.
+- Robust proficiency in R; familiarity with Python is a distinct advantage.
+- Introductory experience with SQL databases, encompassing data extraction and elementary manipulation.
+- Sound grasp of statistical concepts and techniques.
+- An analytical disposition paired with effective problem-solving skills.
+
+## Additional Skills
+
+- Aptitude for distilling complex data-driven findings into comprehensible formats for diverse audiences.
+- Experience with data visualization tools, e.g., ggplot.
+- Acute time-management abilities with a knack for task prioritization.
+- An inherent thirst for learning and adaptability in a rapidly evolving field.
+- Meticulous attention to detail, especially regarding data accuracy and integrity.
+
