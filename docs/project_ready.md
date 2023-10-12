@@ -18,19 +18,17 @@ The Director will spearhead the development and implementation of comprehensive 
 #### Primary Responsibilities:
 
 1. **Development of Academic Pathways:** Lead the development of data-rich, multi-level, and complex academic pathways, focusing on the Montgomery County public school system, regional community colleges, and USG.
-   
 2. **Comprehensive Analysis and Assessment:** Oversee the evaluation and analysis of students' success across various stages of education and into their professional lives, ensuring the alignment of educational programs with student needs and market demands.
-
 3. **Stakeholder Engagement and Collaboration:** Engage with local educational institutions, business leaders, and other stakeholders to align research initiatives and educational programs with the evolving demands of the job market and community needs.
 
 #### Qualification Requirements:
 The successful candidate must have:
 
-1. **Advanced Degree:** A Ph.D. in a relevant field such as Education, Public Policy, Sociology, Economics, Data Science, or equivalent areas.
-2. **Specialized Experience:** A minimum of 10 years in educational research or a related environment, with a focus on developing and analyzing academic pathways and policy-relevant data.
-3. **Data Management Expertise:** Extensive knowledge and experience in public-sector inter-agency, multi-layered database development and management, collaboration, and system integration.
-4. **Data Analytics Design Experience:** Proven experience in designing and developing complex data analytics organizations and utilizing up-to-date data integration technologies and approaches.
-5. **Knowledge of Privacy Requirements:** In-depth understanding of privacy requirements across different policy areas such as education, health, and commerce.
+- **Advanced Degree:** A Ph.D. in a relevant field such as Education, Public Policy, Sociology, Economics, Data Science, or equivalent areas.
+- **Specialized Experience:** A minimum of 10 years in educational research or a related environment, with a focus on developing and analyzing academic pathways and policy-relevant data.
+- **Data Management Expertise:** Extensive knowledge and experience in public-sector inter-agency, multi-layered database development and management, collaboration, and system integration.
+- **Data Analytics Design Experience:** Proven experience in designing and developing complex data analytics organizations and utilizing up-to-date data integration technologies and approaches.
+- **Knowledge of Privacy Requirements:** In-depth understanding of privacy requirements across different policy areas such as education, health, and commerce.
 
 #### Additional Skills:
 
